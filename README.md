@@ -5,7 +5,7 @@ Este guia explica como enviar (push) e baixar (pull) alterações de um reposit�
 ## 🔄 Atualizar o Repositório (Pull)
 Se você deseja baixar as alterações mais recentes do repositório remoto para seu computador, use:
 ```bash
-git pull origin main
+git pull origin master
 ```
 Isso garante que você tenha a versão mais atualizada do código antes de fazer alterações.
 
